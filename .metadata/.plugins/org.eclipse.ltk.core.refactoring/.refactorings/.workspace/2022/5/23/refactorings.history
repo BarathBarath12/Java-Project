@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Loop_Increment&apos; to &apos;Loop_Increment_Decrement&apos;&#x0D;&#x0A;- Original element: &apos;Loop_Increment&apos;&#x0D;&#x0A;- Renamed element: &apos;Loop_Increment&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Loop_Increment&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Loop_Increment" name="Loop_Increment_Decrement" references="true" stamp="1654028031754" version="1.0"/>
+</session>

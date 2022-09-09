@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.demo.Hast_Set&apos; to &apos;Hash_Set&apos;&#x0D;&#x0A;- Original project: &apos;Set_Methods&apos;&#x0D;&#x0A;- Original element: &apos;org.demo.Hast_Set&apos;&#x0D;&#x0A;- Renamed element: &apos;org.demo.Hash_Set&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hast_Set&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;org.demo{Hast_Set.java[Hast_Set" matchStrategy="1" name="Hash_Set" qualified="false" references="true" similarDeclarations="false" stamp="1655928567345" textual="false" version="1.0"/>
+</session>
